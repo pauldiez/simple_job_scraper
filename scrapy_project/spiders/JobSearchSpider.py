@@ -10,7 +10,7 @@ class JobSearchSpider(scrapy.Spider):
     name = "job_search"
     query_tags = None
     matched_jobs = []
-    send_to_email = 'some-name@email.com'
+    send_to_email = "some-name@email.com"
 
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
