@@ -1,6 +1,6 @@
 # About This App
 
-This is a sample project using the Scrapy library from ScrapingHub.com to find job postings via stackoverflow.com based on specific technologies. Any job found are then emailed them to me.
+This is a sample project using the Scrapy library from ScrapingHub.com to find job postings via stackoverflow.com based on specific technologies. Any job postings found are then emailed.
 
 
 # Install app instructions
